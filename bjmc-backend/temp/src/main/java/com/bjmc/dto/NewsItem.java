@@ -1,6 +1,6 @@
-package com.bjmc.entities;
-
+package com.bjmc.dto;
 import java.time.LocalDateTime;
+
 
 public class NewsItem {
     private String title;

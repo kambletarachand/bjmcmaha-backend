@@ -1,0 +1,55 @@
+C:\Users\SANDEEP_HP\git\repository\bjmc\bjmc-backend\src\main\java\com\bjmc
+├── BjmcBackendApplication.java
+├── config
+│   └── WebConfig.java
+├── controllers
+│   ├── AdminEventController.java
+│   ├── AdminNewsController.java
+│   ├── AdminSchemeController.java
+│   ├── BjmcVisitorController.java
+│   ├── ExternalNewsController.java
+│   ├── MemberController.java
+│   ├── NewsController.java
+│   ├── OtpController.java
+│   └── SchemeController.java
+├── dao
+│   ├── AdminEventRepository.java
+│   ├── AdminNewsRepository.java
+│   ├── AdminSchemeRepository.java
+│   ├── BjmcVisitorRepository.java
+│   ├── ContactDetailsRepository.java
+│   ├── MemberRepository.java
+│   ├── NewsRepository.java
+│   ├── SchemeRepository.java
+│   └── VerificationTokenRepository.java
+├── dto
+│   ├── NewsItem.java
+│   ├── RegistrationRequest.java
+│   └── VisitorRegistrationRequest.java
+├── entities
+│   ├── AdminEvent.java
+│   ├── AdminNews.java
+│   ├── AdminScheme.java
+│   ├── BjmcVisitor.java
+│   ├── ContactDetails.java
+│   ├── EmailRequest.java
+│   ├── LoginRequest.java
+│   ├── Member.java
+│   ├── News.java
+│   ├── NewsItem.java
+│   ├── RegistrationRequest.java
+│   ├── Scheme.java
+│   └── VerificationToken.java
+└── services
+    ├── AdminEventService.java
+    ├── AdminNewsService.java
+    ├── AdminSchemeService.java
+    ├── BjmcVisitorService.java
+    ├── ContactDetailsService.java
+    ├── ContactDetailsServiceImpl.java
+    ├── EmailService.java
+    ├── ExternalNewsService.java
+    ├── IndiaTogetherNewsFetcherService.java
+    ├── NewsService.java
+    ├── SchemeService.java
+    └── SmsService.java
